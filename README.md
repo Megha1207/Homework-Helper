@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Create a .env file in the project root and add your OpenAI API key:
 OPENAI_API_KEY=your_openai_api_key
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0f8e808-6b2b-4592-b7e5-1ad4d44d53c8" />
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0f8e808-6b2b-4592-b7e5-1ad4d44d53c8" />
+
 
 **Technologies**
 
