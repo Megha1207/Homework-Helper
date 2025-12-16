@@ -13,7 +13,7 @@ Homework Helper is a Streamlit app that leverages multiple AI agents to assist s
 **Installation**
 
 1. Clone the repository:
-git clone https://github.com/Tonyhrule/Homework-Helper.git
+git clone https://github.com/Megha1207/Homework-Helper.git
 cd Homework-Helper
 
 2. Create a virtual environment (optional but recommended):
